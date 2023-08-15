@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES2015", //ES3（默认）、ES5、ES6/ES2015、ES7/ES2016、ES2017、ES2018、ES2019、ES2020、ESNext
+    "module": "ES2015", //指定模块化规范
+    "strict": true, //严格模式开关
+    "noEmitOnError": true, //代码有错误则不编译
+  }
+}
